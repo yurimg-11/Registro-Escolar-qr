@@ -1,0 +1,7 @@
+{
+  "name": "Registro Escolar QR",
+  "description": "Sistema de registro de entrada y salida de alumnos mediante escaneo de códigos QR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
